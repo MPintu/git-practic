@@ -1,0 +1,4 @@
+interface vehicle
+{
+void start();
+}
